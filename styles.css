@@ -1,0 +1,23 @@
+div{
+    text-align: center;
+    
+}
+div.top{
+    height: 50px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    border-radius: 2px;
+}
+div.tour{
+    background-color: black;
+    color: white;
+}
+div.final image{
+    margin: 0%;
+}
+.final image::after{
+    content:"     " ;
+    font-size: 50px;
+    display: block;
+}
