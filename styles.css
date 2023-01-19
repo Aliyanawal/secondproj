@@ -17,7 +17,7 @@ div.final image{
     margin: 0%;
 }
 .final image::after{
-    content:"     " ;
+    content:"   " ;
     font-size: 50px;
     display: block;
 }
